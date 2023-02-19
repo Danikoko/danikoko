@@ -1,6 +1,8 @@
 <h1 align="center">
     Hi, I'm Daniel! 👋
-    <font size="3">(Nickname: Danikoko)</font>
+    <small>
+        <font size="4">Nickname: Danikoko</font>
+    </small>
 </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-enamudu">
