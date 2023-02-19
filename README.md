@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Daniel! 👋</h1>
-<p align="center">(Nickname: Danikoko)</p>
+<h1 align="center">
+    Hi, I'm Daniel! 👋
+    <p align="center">(Nickname: Danikoko)</p>
+</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-enamudu">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
