@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi, I'm Daniel! 👋
     <small>
-        <font size="4">Nickname: Danikoko</font>
+        Nickname: Danikoko
     </small>
 </h1>
 <p align="center">
