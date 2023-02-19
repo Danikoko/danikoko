@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi, I'm Daniel (Danikoko)! 👋
+    Hi, I'm Daniel! 👋
 </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-enamudu">
@@ -30,9 +30,9 @@ Here are some of the technologies and tools that I use and am proficient in:
 
 Here are some of my notable projects:
 
-- **KylianERP**: A Human Resource (HR) SaaS solution <a href="https://kylianerp.com">KylianERP.com</a>
-- **Eventdors**: An event planning and booking web app <a href="https://eventdors.com">Eventdors.com</a>
-- **Chops**: A food delivery web app <a href="https://chops.ng">Chops.ng</a>
+- **KylianERP**: A Human Resource (HR) SaaS solution. Preview at <a href="https://kylianerp.com">KylianERP.com</a>
+- **Eventdors**: An event planning and booking web app. Preview at <a href="https://eventdors.com">Eventdors.com</a>
+- **Chops**: A food delivery web app. Preview at <a href="https://chops.ng">Chops.ng</a>
 
 ## 📫 Contact Me
 
