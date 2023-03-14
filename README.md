@@ -8,7 +8,7 @@
   <a href="https://twitter.com/iam_danikoko">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white">
   </a>
-  <a href="https://danikoko.github.io">
+  <a href="https://danikoko.com">
     <img src="https://img.shields.io/badge/-Website-green?style=flat">
   </a>
 </p>
@@ -21,10 +21,10 @@ I'm a passionate software developer with 7 years of experience in Javascript (Ty
 
 Here are some of the technologies and tools that I use and am proficient in:
 
-- **Languages:** Javascript/Typescript & PHP
-- **Frameworks:** Vue.js, Nuxt.js, React.js, Next.js, React Native, Vitest
-- **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, VS Code, Postman, Tailwind, Bootstrap, Axios, etc
+- **Languages:** Javascript/Typescript & PHP.
+- **Frameworks:** Vue.js, Nuxt.js, React.js, Next.js, React Native, Vitest, Laravel.
+- **Databases:** MySQL, PostgreSQL.
+- **Tools:** Git, VS Code, Postman, Tailwind, Bootstrap, Axios, etc.
 
 ## 💻 Projects
 
