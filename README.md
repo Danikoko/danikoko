@@ -31,7 +31,7 @@ Here are some of the technologies and tools that I use and am proficient in:
 Here are some of my notable projects:
 
 - **KylianERP**: A Human Resource (HR) SaaS solution. Preview at <a href="https://kylianerp.com">KylianERP.com</a>
-- **Eventdors**: An event planning and booking web app. Preview at <a href="https://eventdors-frontend.vercel.app">Eventdors-frontend.vercel.app/</a>
+- **Eventdors**: An event planning and booking web app. Preview at <a href="https://eventdors-frontend.vercel.app">Eventdors-frontend.vercel.app</a>
 - **Chops**: A food delivery web app. Preview at <a href="https://chops.ng">Chops.ng</a>
 
 ## 📫 Contact Me
