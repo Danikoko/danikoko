@@ -8,7 +8,7 @@
   <a href="https://twitter.com/iam_danikoko">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white">
   </a>
-  <a href="https://danikoko.com">
+  <a href="https://danikoko.github.io">
     <img src="https://img.shields.io/badge/-Website-green?style=flat">
   </a>
 </p>
