@@ -2,11 +2,13 @@
     Hi, I'm Daniel! 👋
 </h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/daniel-enamudu" />
-    <a href="https://x.com/iam_danikoko">
+    <a href="https://linkedin.com/in/daniel-enamudu" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://x.com/iam_danikoko" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-000000?style=flat&logo=X&logoColor=white" />
     </a>
-    <a href="https://instagram.com/iam_danikoko">
+    <a href="https://instagram.com/iam_danikoko" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-d62976?style=flat&logo=Instagram&logoColor=white" />
     </a>
 </p>
