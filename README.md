@@ -2,15 +2,13 @@
     Hi, I'm Daniel! 👋
 </h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-enamudu">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white">
-  </a>
-  <a href="https://x.com/iam_danikoko">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white">
-  </a>
-  <a href="https://instagram.com/iam_danikoko">
-    <img src="[https://img.shields.io/badge/-Website-green?style=flat](https://img.shields.io/badge/-Instagram-d62976?style=flat)">
-  </a>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/daniel-enamudu" />
+    <a href="https://x.com/iam_danikoko">
+        <img src="https://img.shields.io/badge/-000000?style=flat&logo=X&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/iam_danikoko">
+        <img src="https://img.shields.io/badge/-d62976?style=flat&logo=Instagram&logoColor=white" />
+    </a>
 </p>
 
 ## 🚀 About Me
@@ -38,7 +36,7 @@ Here are some of my notable projects:
 If you have any questions or want to get in touch, feel free to reach out to me through the following channels:
 
 - LinkedIn: <a href="https://www.linkedin.com/in/daniel-enamudu">@daniel-enamudu</a>
-- Twitter: <a href="https://www.x.com/iam_danikoko">@iam_danikoko</a>
+- X: <a href="https://www.x.com/iam_danikoko">@iam_danikoko</a>
 - Instagram: <a href="https://instagram.com/iam_danikoko">@iam_danikoko</a>
 - Email: <a href="mailto:oshionefa@gmail.com">oshionefa@gmail.com</a>
 
