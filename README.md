@@ -27,11 +27,10 @@ Here are some of the technologies and tools that I use and am proficient in:
 
 ## 💻 Projects
 
-Here are some of my notable projects:
+Here are some cool stuff I've worked on:
 
-- **Dome**: A rental intelligence solution with AI capabilities. Preview at <a href="https://usedome.app">Eventdors-frontend.vercel.app</a>
-- **KylianERP**: A Human Resource (HR) SaaS solution. Preview at <a href="https://kylianerp.com">KylianERP.com</a>
-- **Chops**: A food delivery web app. Preview at <a href="https://chops.ng">Chops.ng</a>
+- **Dome**: An AI-powered rental intelligence solution. <a href="https://usedome.app">Eventdors-frontend.vercel.app</a>
+- **KylianERP**: A Human Resource (HR) SaaS solution. <a href="https://kylianerp.com">KylianERP.com</a>
 
 ## 📫 Contact Me
 
