@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi, I'm Daniel! 👋
+    Hi, I'm Daniel!
 </h1>
 <p align="center">
     <a href="https://x.com/iam_danikoko" style="text-decoration: none;">
