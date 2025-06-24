@@ -29,8 +29,8 @@ Here are some of the technologies and tools that I use and am proficient in:
 
 Here are some cool stuff I've worked on:
 
-- **Dome**: An AI-powered rental intelligence solution. <a href="https://usedome.app">Usedome.app</a>
-- **KylianERP**: A Human Resource (HR) SaaS solution. <a href="https://kylianerp.com">KylianERP.com</a>
+- **Dome**: An AI-powered rental intelligence solution. <a href="https://usedome.app">usedome.app</a>
+- **KylianERP**: A Human Resource (HR) SaaS solution. <a href="https://kylianerp.com">kylianerp.com</a>
 
 ## 📫 Contact Me
 
